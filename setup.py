@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
 	name = "ihs-dl",
-	version = "0.0.1",
+	version = "0.0.2",
 	license = "GPLv3",
 	description = "IHS Markit Teardown Photo Downloader",
 	author = "DerNuntius",
