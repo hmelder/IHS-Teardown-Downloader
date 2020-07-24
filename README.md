@@ -2,7 +2,7 @@ The IHS Teardown Analysis provides detailed Photos, PDFs and BOMs of various ele
 
 #### Installation
 
-```pip3 install git+https://github.com/DerNuntius/IHS-Teardown-Downloader```
+```pip3 install ihs-dl```
 
 #### Usage
 
