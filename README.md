@@ -1,5 +1,5 @@
-![badge](https://img.shields.io/pypi/v/ihs-dl.svg?style=flat-square)
-![badge](https://img.shields.io/github/license/DerNuntius/IHS-Teardown-Downloader?style=flat-square)
+[![badge](https://img.shields.io/pypi/v/ihs-dl.svg?style=flat-square)](https://pypi.org/project/ihs-dl/)
+[![badge](https://img.shields.io/github/license/DerNuntius/IHS-Teardown-Downloader?style=flat-square)](https://github.com/DerNuntius/IHS-Teardown-Downloader/blob/master/LICENSE)
 [![badge](https://img.shields.io/badge/Donate-PayPal-blue?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZD45HXTV3VTVY&source=url)
 
 The IHS Teardown Analysis provides detailed Photos, PDFs and BOMs of various electronics. Very useful ... the problem is the price-tag. Well with this program you can legally obtain the full photo collection of all tear-downs.
