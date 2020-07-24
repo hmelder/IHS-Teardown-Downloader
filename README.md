@@ -5,7 +5,7 @@ The IHS Teardown Analysis provides detailed Photos, PDFs and BOMs of various ele
 ```pip3 install git+https://github.com/DerNuntius/IHS-Teardown-Downloader```
 
 #### Screenshots
-
+![TUI](https://raw.githubusercontent.com/DerNuntius/IHS-Teardown-Downloader/master/images/screenshot.png)
 #### Brief Explaination
 
 After some digging, I found a way to download the photos and PDFs.
