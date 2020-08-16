@@ -18,7 +18,7 @@ The IHS Teardown Analysis provides detailed Photos, PDFs and BOMs of various ele
 #### Brief Explaination
 
 After some digging, I found a way to download the photos and PDFs.
-The preview photos on the IHS Teardown Website only artificially limited and have a unique DeviceID and a PhotoID.
+The preview photos on the IHS Teardown Website are only artificially limited and have a unique DeviceID and a PhotoID.
 PDFs have a different retrieving system that I don't understand as of yet.
 But I managed to use the query's ProductID to retrieve and download the associated photos. Each Photo has an associated JSON file (Title, Description etc). And after some HTML parsing, URL retrieving, photo downloading and renaming with the synced JSON we have full access to the IHS Teardown Archive.
 
